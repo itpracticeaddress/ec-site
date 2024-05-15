@@ -49,6 +49,10 @@ export default {
     {
       name: '購入履歴',
       url: '/shopping-history'
+    },
+    {
+      name: 'ログイン/ログアウト',
+      url: '/login'
     }
   ],
       headerItems: [
